@@ -1,0 +1,13 @@
+{
+	"name": "book-reviewer-mern",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {},
+	"keywords": [],
+	"author": "Sajid Sulaiman",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
